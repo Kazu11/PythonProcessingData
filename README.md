@@ -25,12 +25,12 @@ A datasets was PRASETYO NUGROHADI's and REZKY YAYANG YAKHAMID's from thir Kaggle
 For more information, you can check this link :
 <div align="center> 
     <a href="https://www.kaggle.com/datasets/rezkyyayang/pekerja-sejahtera">
-        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank">
     </a>
 </div>
 <div align="center> 
     <a href="https://www.kaggle.com/code/prasetyon/indonesia-avgsalary-and-minwage-analysis-15-22/notebook">
-        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank">
     </a>
 </div>
 
